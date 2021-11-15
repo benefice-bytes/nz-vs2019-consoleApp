@@ -7,6 +7,7 @@ namespace nz_vs2019_consoleApp
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("C# Tutorials");
         }
     }
 }
